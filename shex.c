@@ -5,6 +5,7 @@
 #include <sys/types.h>
 #include <linux/fcntl.h>
 #include <stdlib.h>
+#include <string.h>
 #include <stdio.h>
 #include <unistd.h>
 #include <termios.h>
